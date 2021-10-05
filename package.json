@@ -1,0 +1,28 @@
+{
+  "name": "roster-generator",
+  "version": "1.0.0",
+  "description": "Team roster generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e1m3m0/roster-generator.git"
+  },
+  "keywords": [
+    "roster"
+  ],
+  "author": "Guillermo Mateo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e1m3m0/roster-generator/issues"
+  },
+  "homepage": "https://github.com/e1m3m0/roster-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
